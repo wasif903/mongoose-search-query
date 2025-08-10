@@ -1,0 +1,17 @@
+
+---
+
+## **5️⃣ LICENSE**
+MIT license text.
+
+---
+
+## **6️⃣ Publish to npm**
+Once your files are ready:
+
+```bash
+# 1. Login
+npm login
+
+# 2. Publish (publicly)
+npm publish --access public

@@ -1,0 +1,23 @@
+{
+  "name": "mongo-search-query-builder",
+  "version": "1.0.0",
+  "description": "A safe, flexible MongoDB search query builder that supports infinite nesting and arrays.",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "mongodb",
+    "mongoose",
+    "search",
+    "query",
+    "builder",
+    "aggregation"
+  ],
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^8.0.0"
+  }
+}
