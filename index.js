@@ -1,4 +1,3 @@
-// index.js
 import mongoose from "mongoose";
 
 /**
